@@ -1,2 +1,2 @@
 # tindog
-Tindog is fake website to match dog couple. It's inspired from Tinder.
+This is my Bootstrap practice project! I used this project to duplicate an already made website using HTML, CSS, and Bootstrap.
